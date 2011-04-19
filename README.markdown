@@ -1,5 +1,5 @@
 # Image Sprite Generator - SpriteGenerator.java
-## A simple image sprite generator to create a single image from a folder of PNG images
+## This is a simple java application for generating sprite images from a folder of PNG images for use in web design or game development.
 
 This is useful in combining multiple images into one image sprite.  I use this to generate sprites for icons used in web applications.  This way only one file needs to be downloaded and cached for every icon in the application.  The original intent for the application was for Android based game development.
 
